@@ -3,6 +3,7 @@
 }
 
 .flexbox-header {
+    display: flex;
     width: 100%;
     background-color: black;
     height: 100px;
